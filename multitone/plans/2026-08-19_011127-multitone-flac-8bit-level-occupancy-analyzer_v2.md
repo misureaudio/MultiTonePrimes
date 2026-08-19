@@ -20,7 +20,7 @@
 
 | Property | 24-bit FLAC (attached) | 16-bit FLAC (sibling) |
 |---|---|---|
-| File | `multitone/audio/PrimeToneNewPhi[Nch 1][Frac 03][LFL 043][00020-43200][Nfr 031]-[96000-24]-[1s]-[-0.25dB]-[057923]-[ 8.7282]-[RD].flac` | `multitone/audio/PrimeToneNewPhi[Nch 1][Frac 03][LFL 043][00020-43200][Nfr 031]-[96000-16]-[1s]-[-0.25dB]-[080734]-[ 8.6800]-[RD].flac` |
+| File | `multitone/audio/ PrimeToneNewPhi[Nch 1] [Frac 03][LFL 043][00020-43200] [Nfr 031]-[96000-24]- [1s]-[-0.25dB]-[057923]- [ 8.7282]-[RD].flac` | `multitone/audio/ PrimeToneNewPhi[Nch 1] [Frac 03][LFL 043][00020-43200] [Nfr 031]-[96000-16]- [1s]-[-0.25dB]-[080734]- [ 8.6800]-[RD].flac` |
 | Stream | PCM_24, mono, 96 000 Hz, 96 000 frames, 1.000000 s | PCM_16, mono, 96 000 Hz, 96 000 frames, 1.000000 s |
 | Sample range | ±8 150 605 (24-bit) | ±31 837 (16-bit) |
 | Peak / RMS | −0.250 / −8.98 dBFS | −0.250 / −8.93 dBFS |
